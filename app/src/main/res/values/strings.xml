@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cover</string>
+    <string name="whats_your_address">Whats your address?</string>
+    <string name="address_hint">e.g 123 Main Street</string>
+    <string name="title_activity_insurers">Insurers</string>
+    <string name="current_insurer">Who\'s your current insurer?</string>
+    <string name="next">Next</string>
+    <string name="ok">Ok</string>
+    <string name="insurerDialogMsg">Select one of the options to continue</string>
+    <string name="insurerDialogTitle">No Options Selected</string>
+
+    <string-array name="insurers">
+        <item></item>
+    </string-array>
+</resources>
